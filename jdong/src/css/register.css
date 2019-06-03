@@ -1,0 +1,36 @@
+.main{width:1190px;margin:0 auto;}
+.topOut{box-shadow: 0px 2px 4px 2px #ccc;}
+.topIn{height:100px;background: #fff; }
+.regLogo{display: inline-block;width:150px;height:70px;background: url(../images/regLogo.jpg) no-repeat;background-position: 6px 24px; float:left;}
+.welcome{display: inline-block;height: 34px;width:110px;float:left;line-height: 34px;font-size: 24px;color: #333;margin: 34px  0 0 20px;}
+.haveLogin{width:160px;height:26px;float: right;margin:55px 10px 0 0;font-size: 16px;color: #999;}
+.pleaseL{color: #e22;cursor: pointer;}
+.pleaseL:hover{color: #c81623;text-decoration: underline;}
+.conOut{margin:40px 0 0 0;}
+
+.titleBox{width:400px;height:70px;margin: 10px auto;position: relative;font-weight: 800;left:100px;}
+.writeInfo{float: left; width:70px;height:70px;font-size: 12px;color:rgb(51,187,68);}
+.num{width:24px;height:24px;border-radius: 50%;line-height: 24px;text-align: center;border:1px solid #ccc;color:#ccc;}
+.writeInfo p,.success p{position: absolute;top:35px; left:-11px;}
+.points{width:130px;height:20px;background: url(../images/register.jpg) no-repeat;float: left;background-position: 0 -90px;position: absolute;left:37px;top:-2px;}
+.success{position: absolute;left:170px;top:0px;width:70px;height:70px;font-size: 12px;}
+.noPromise{color:#ccc;}
+.promise{background: rgb(51,187,68);color:#fff;border-color:rgb(51,187,68);}
+.promiseT{color:rgb(51,187,68)}
+div.adopt{background-position: 0 -120px;}
+
+.zhanghaoBox,.mimaBox,.yanzhengmaBox,.yanzhengImg{width:400px;height:50px;margin: 18px auto;position: relative;font-weight: 800;border:1px solid ;border-color:#ccc;}
+.zhanghaoBox>label,.mimaBox>label,.yanzhengmaBox>label{display:inline-block;width:100px;height:50px;border-right:1px solid ;border-color:#ccc;line-height: 50px;font-size: 14px;color:rgb(102,102,102);text-align: center}
+#zhanghao,#mima,#yanzhengma{display:inline-block;width:285px;height:50px;line-height: 50px;font-size: 16px;color:rgb(102,102,102);text-align: left;padding-left:10px;}
+#yanzhengma{width:190px;}
+.yzm-code{display:inline-block;width:95px;height:50px;line-height: 50px;font-size: 26px;color:rgb(102,102,102);text-align: center;float:right;letter-spacing: 4px;}
+.z-h-info,.m-m-info,.y-z-m-info{position: absolute;top:52px;left:0;font-size: 12px;color:#ccc;}
+.yanzheng{width:100%;height:100%;text-align: center;line-height: 300%;}
+.imgBox{position: absolute;bottom:60px;left:0;width:370px;height:210px;z-index:1;box-shadow: 0px 0px 5px 3px #ccc;background: #fff;padding:15px;display: none;}
+.changeImg{padding-left:180px;cursor: pointer;color:blue;}
+.icon-shanchu{position: absolute;right:0px;top:0px;cursor: pointer;font-size: 24px;color:#ccc;}
+.goNext{width:400px;height:50px;margin: 18px auto;position: relative;font-weight: 400;background: rgb(226,35,26);color:#fff;outline: none;display:block;font-size: 18px;text-align: center;line-height: 50px;
+cursor: pointer;}
+.goNext:hover{background: rgb(200,22,35); }
+
+.u-n-info{position: absolute;bottom:-20px;height:20px;left:10px;font-size: 12px;color:red;}

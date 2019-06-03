@@ -1,0 +1,36 @@
+.logoS_Box,.logoS{height:70px;position: relative;}
+.logoS{background: url(../images/login_logo.jpg) no-repeat;background-position: 100px 10px;}
+.cartTitle{position: absolute;font-size: 22px;font-weight: 700;top:40px;left:280px;}
+.cart_search{position: absolute;width:320px;height:26px;right:80px;top:40px;border:2px solid rgb(201,22,35);padding-left:4px; font-size: 14px;line-height: 26px;}
+.cart_search a{width:54px;height:26px;background: rgb(201,22,35);float: right;color:#fff;text-align: center}
+
+.foot-top,.foot_body,.foot_bottom{background: rgb(234,234,234);}
+.foot-top{margin-top:200px;}
+
+.conCart{margin-top:50px;}
+.cartTop{height:44px;background: rgb(243,243,243);position: relative;line-height: 44px;font-size: 14px;}
+.cartTop span:nth-child(1){margin-left:30px}
+.span1{margin-left:160px}
+.span2{margin-left:500px}
+.span3{margin-left:100px}
+.span4{margin-left:100px}
+.span5{margin-left:100px}
+
+.c-g-l-title{position: absolute;left:30px;top:-20px;height:20px;line-height:20px;font-size: 12px;color:#333;font-weight: 800;}
+.cartGoodsList{width:100%;height:110px;margin:20px 0 30px;background: rgb(255,244,232);border-top:2px solid rgb(170,170,170);position: relative;}
+.c-g-l-img-box{width:85px;height:85px;position: absolute;top:10px;left:30px;}
+.c-g-l-img-box img{width:100%;height:100%;}
+.c-g-l-info{width:390px;position: absolute;height:88px;line-height:16px;font-size: 12px;color:rgb(51,51,51);font-weight: 400;top:15px;left:130px;}
+.cart_price{position: absolute;left:744px;top:36px;font-size: 14px;}
+.cartNumber{height:20px;width:90px;position: absolute;left:852px;top:36px;background: red;}
+.cart_number{width:40px;height:20px;background: rgb(233,48,51);color:#fff;font-size: 12px;font-weight: 400;text-align: center;display: inline-block;line-height: 20px;cursor: pointer;float: left;margin-left:25px;}
+.cart_number::-webkit-outer-spin-button,.cart_number::-webkit-inner-spin-button {-webkit-appearance: none;appearance: none; margin: 0;}
+.cart_priceAll{position: absolute;left:1009px;top:36px;font-size: 14px;}
+.cart-delGoods{position: absolute;left:1146px;top:36px;font-size: 14px;cursor: pointer;}
+.cart-delGoods:hover{color:rgb(255,22,15)}
+.jiesuanBtnBox{height:50px;background: #ccc;position: relative;}
+.Allprice{position: absolute;right:100px;line-height: 50px;color:rgb(255,22,15)}
+.Allprice span{color:#000;}
+.Allprice input{color:rgb(255,22,15)}
+.jiesuanBtn{width:90px;height:50px;background: rgb(233,48,51);float: right;cursor: pointer;color:#fff;
+    font-weight: 800;text-align: center;font-size: 20px;line-height:50px;}

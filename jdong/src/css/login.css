@@ -1,0 +1,41 @@
+.main{width:1000px;margin:0 auto}
+.top{height:80px;position: relative;}
+.welTitle{font-size: 25px;font-weight: 400;display: block;position: absolute;left: 195px;top: 23px;}
+.bodyBox{background: rgb(233,56,84);height:475px;width:100%;}
+.body{background: url(../images/login_body.jpg) no-repeat;position: relative;height:475px;}
+
+.loginBox{position: absolute;right:0;top:10px;background: #fff;width:345px;height:400px;}
+.warn{height:40px;background: rgb(255,248,240);text-align: center;line-height: 40px;font-size: 12px;color:#ccc;}
+
+.login_t{height:52px;position: relative;border-bottom:1px rgb(244,244,244) solid;line-height: 52px;}
+.login_t a{display: block;float: left;font-size: 20px;text-align: center;height:20px;width:170px;color:#ccc;}
+.login_t a.checked{color:rgb(228,57,60);font-weight: 600;}
+.login_t span{width:1px;height:16px;background: #ccc;display: inline-block;position: absolute;top:18px;
+    left:168px;}
+.login_t a:hover{color:rgb(228,57,60);font-weight: 600;}
+.name_password{width:305px;height:40px;border:1px solid #ccc;margin: 0 auto;}
+.login_name{margin:35px auto 18px;}
+.name_password>label{height:40px;display: block;float: left;width:30px;border-right:1px solid #ccc;background: rgb(244,244,244);padding-left:10px;}
+.name_password i{line-height: 44px;font-size: 20px;color:#ccc;}
+.name_password input{height:40px;display: block;float: left;width:250px;font-size: 14px;line-height: 40px;padding-left:10px;}
+.forget{padding:18px 20px 20px;;overflow: hidden;}
+.forget a{color:#666;font-size: 13px;float: right;}
+.forget a:hover{color:rgb(228,57,60);text-decoration: underline;}
+.goNext{height:34px;width:305px;background: rgb(228,57,60);margin:0 auto;display: block;color:#fff;line-height: 34px;text-align: center;letter-spacing: 10px;font-size: 20px;cursor: pointer;}
+.login_b{height:50px;background: rgb(252,252,252);position: absolute;bottom:0;width:305px;line-height: 50px;border-top:1px solid rgb(244,244,244);padding:  0 20px;}
+.qqImg,.wechatImg{display: inline-block;width:20px;height:20px;background: url(../images/login_bottom.jpg) no-repeat;position: absolute;top:16px;}
+.qq,.wechat{padding:0 23px 0 24px;font-size: 12px;}
+.qq,.wechat{color:#ccc;}
+.qq:hover,.wechat:hover{color:rgb(228,57,60);text-decoration: underline;}
+.qqImg{background-position: 0px 0;left:20px;}
+.wechatImg{background-position: -19px 0;left:88px;}
+.nowReg{color:rgb(228,57,60);font-size: 15px;float: right;}
+.nowReg:hover{text-decoration: underline;}
+
+.navS{margin:0 auto;height:20px;width:870px;padding:20px 0 6px;}
+.navS span{float: left;font-size: 12px;padding-top: 2px;}
+.navS li{float: left;}
+.navS a{padding:0 12px;font-size: 12px;color:rgb(102,102,102)}
+.navS a:hover{color:rgb(228,57,60);text-decoration: underline;}
+.bottom p{text-align: center;font-size: 12px;color:rgb(102,102,102)}
+.u-n-info,.m-m-info{padding-left:50px;font-size: 12px;color:red;}
